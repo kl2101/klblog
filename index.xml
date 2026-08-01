@@ -15,13 +15,6 @@
     <atom:link href="https://www.kailiang.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>哪些律师在被 AI 推荐？我们跑了上千次测试发现……</title>
-      <link>https://www.kailiang.life/publish/202607181728/copyediting/2026-07-07_121348/</link>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.kailiang.life/publish/202607181728/copyediting/2026-07-07_121348/</guid>
-      <description>哪些律师在被 AI 推荐？我们跑了上千次测试发现…… TL;DR: 豆包推荐律师走“先搜索、再筛选”的链路：模板化提问下，推荐集中到 7 位律师、第一名独占 56.8</description>
-    </item>
-    <item>
-      <title>哪些律师在被 AI 推荐？我们跑了上千次测试发现……</title>
       <link>https://www.kailiang.life/publish/2026-07-07_121348/</link>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www.kailiang.life/publish/2026-07-07_121348/</guid>
@@ -1163,24 +1156,17 @@
     </item>
     <item>
       <title></title>
-      <link>https://www.kailiang.life/publish/202607181728/copyediting/review/</link>
+      <link>https://www.kailiang.life/publish/202607281158/copyediting/%E5%AE%A1%E6%9F%A5%E6%8A%A5%E5%91%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.kailiang.life/publish/202607181728/copyediting/review/</guid>
-      <description>&lt;!doctype html&gt; copyediting Review Workbench copyediting Review Workbench 加载中 全部层级 L1 L2 L3 L4 ↑ ↓ Dark 保存审阅副本 确认写回原文 copyediting 取消 应用修改</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.kailiang.life/publish/202607181728/copyediting/%E5%AE%A1%E6%9F%A5%E6%8A%A5%E5%91%8A/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.kailiang.life/publish/202607181728/copyediting/%E5%AE%A1%E6%9F%A5%E6%8A%A5%E5%91%8A/</guid>
-      <description>审查报告 runId：202607181728 源文件：/Users/ohyoung/project/library/Note/MyProjec</description>
+      <guid>https://www.kailiang.life/publish/202607281158/copyediting/%E5%AE%A1%E6%9F%A5%E6%8A%A5%E5%91%8A/</guid>
+      <description>审查报告 审查范围 输入文件：/Users/ohyoung/project/library/Note/MyProject/content/pub</description>
     </item>
     <item>
       <title></title>
       <link>https://www.kailiang.life/publish/202607281158_ai%E6%98%AF%E5%90%A6%E7%9C%9F%E7%9A%84%E6%8E%A8%E8%8D%90%E4%BA%86%E4%BD%A0%E5%BE%8B%E5%B8%88ai%E6%A1%88%E6%BA%90%E8%A1%A1%E9%87%8F%E6%89%8B%E5%86%8C/visual-ledger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.kailiang.life/publish/202607281158_ai%E6%98%AF%E5%90%A6%E7%9C%9F%E7%9A%84%E6%8E%A8%E8%8D%90%E4%BA%86%E4%BD%A0%E5%BE%8B%E5%B8%88ai%E6%A1%88%E6%BA%90%E8%A1%A1%E9%87%8F%E6%89%8B%E5%86%8C/visual-ledger/</guid>
-      <description>ReportFirm Visual Ledger · 律师AI案源衡量手册 唯一冻结 spec；驱动脚本据此断言 pending_confirmation=false 且 freeze_quote 非空方可生成。 Header theme: 默认 Modern Minimalist（无配色输入） font_stack: &amp;#39;DejaVu Sans&amp;#39;,&amp;#39;Noto Sans CJK SC&amp;#39;,&amp;#39;PingFang SC&amp;#39;,&amp;#39;Microsoft</description>
+      <description>制图台账 已按作者冻结指令执行。解析器的未知显示项已完成语义路由；以下配方是本次可复跑的冻结规格。 01-measurement-framework kind: diagram parser_symbol: &amp;#34;图1&amp;#34; recipe: stage_matrix params: {direction: &amp;#</description>
     </item>
     <item>
       <title></title>

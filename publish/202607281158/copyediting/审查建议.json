@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "runId": "202607281158",
+  "sourceType": "file",
+  "sourceFile": "/Users/ohyoung/project/library/Note/MyProject/content/publish/202607281158_AI是否真的推荐了你？律师AI案源衡量手册.md",
+  "generatedAt": "2026-07-31T12:24:49+08:00",
+  "status": "DONE_WITH_CONCERNS",
+  "suggestions": [
+    {"id":"CE-001","level":"L1","dimension":"关联词搭配","line":84,"startLine":84,"endLine":84,"original":"无论是服务商或者 AI，都难以比你更知道你的用户是谁、在问什么问题。","suggested":"无论是服务商还是 AI，都难以比你更知道你的用户是谁、在问什么问题。","oldText":"无论是服务商或者 AI，都难以比你更知道你的用户是谁、在问什么问题。","newText":"无论是服务商还是 AI，都难以比你更知道你的用户是谁、在问什么问题。","reason":"“无论是……或者……”关联词搭配不成立，应使用“无论是……还是……”。","source":"L1 语言错误规则：主谓宾搭配错误、明显误用词。","changeSummary":"将“或者”改为“还是”，修正固定关联词搭配。","confidence":"high"},
+    {"id":"CE-002","level":"L2","dimension":"冗余动作","line":88,"startLine":88,"endLine":88,"original":"可以通过本地转录工具进行转录，比如 Memo AI 可以在本地电脑中免费进行语音转文字。","suggested":"可以用本地转录工具转录，例如 Memo AI 可在本地电脑中免费将语音转成文字。","oldText":"可以通过本地转录工具进行转录，比如 Memo AI 可以在本地电脑中免费进行语音转文字。","newText":"可以用本地转录工具转录，例如 Memo AI 可在本地电脑中免费将语音转成文字。","reason":"“本地转录工具进行转录”重复了工具与动作，“进行语音转文字”也让动作变得间接；此处是操作说明，直接写出动作可减轻阅读负担。","source":"L2 R5 中文西化；R7 被动与冗余动作。","changeSummary":"删除两处“进行”结构，保留工具名称、免费、本地电脑和语音转文字等全部信息。","confidence":"high"},
+    {"id":"CE-003","level":"L4","dimension":"逻辑口径一致","line":151,"startLine":145,"endLine":151,"original":"这是 AI 可见性最直接和最简单的观测指标。","suggested":"这是 AI 可见性的一个辅助观测指标。","oldText":"这是 AI 可见性最直接和最简单的观测指标。","newText":"这是 AI 可见性的一个辅助观测指标。","reason":"本段开头将官网抓取变化界定为“前置指标”，段末却称其为“最直接和最简单的观测指标”。与前文以问题集测试声量的主线并读时，读者难以判断两类指标的层级关系。","source":"L4 C1 行文整体逻辑衔接。","changeSummary":"仅收束段末结论的强度，使其与“前置指标”定位一致，无需补充材料或重写段落。","confidence":"medium"},
+    {"id":"CE-004","level":"L1","dimension":"中英文混排格式","line":175,"startLine":175,"endLine":175,"original":"## 5. 从AI可见性，到AI案源","suggested":"## 5. 从 AI 可见性，到 AI 案源","oldText":"## 5. 从AI可见性，到AI案源","newText":"## 5. 从 AI 可见性，到 AI 案源","reason":"标题中“AI”与中文之间未留空格，与全文“AI 可见性”“AI 案源”的写法不一致。","source":"L1 语言错误规则：数字、单位、全半角、大小写格式在同一上下文中不一致。","changeSummary":"补齐两处 AI 与中文之间的空格。","confidence":"high"},
+    {"id":"CE-005","level":"L1","dimension":"动词叠用","line":183,"startLine":183,"endLine":183,"original":"这也是在看 AI 怎么影响塑造你在用户眼中的形象。","suggested":"这也是在看 AI 怎么塑造你在用户眼中的形象。","oldText":"这也是在看 AI 怎么影响塑造你在用户眼中的形象。","newText":"这也是在看 AI 怎么塑造你在用户眼中的形象。","reason":"“影响塑造”两个动词直接叠用，句子主干不成立。","source":"L1 语言错误规则：句式杂糅、主谓宾搭配错误。","changeSummary":"删除“影响”，保留“AI 塑造用户眼中形象”的原意。","confidence":"high"},
+    {"id":"CE-006","level":"L1","dimension":"漏字","line":185,"startLine":185,"endLine":185,"original":"声量声誉和结果是一体的，当事人的原就是最好的问题集素材也是最好的呈现。","suggested":"声量声誉和结果是一体的，当事人的原话就是最好的问题集素材，也是最好的呈现。","oldText":"声量声誉和结果是一体的，当事人的原就是最好的问题集素材也是最好的呈现。","newText":"声量声誉和结果是一体的，当事人的原话就是最好的问题集素材，也是最好的呈现。","reason":"“当事人的原”缺少中心词，导致句意不能成立；结合前文“用户真实问题”“真实的语言”，应为“原话”。","source":"L1 语言错误规则：漏字、成分残缺。","changeSummary":"补入“话”，并在并列谓语之间补逗号以恢复句子结构。","confidence":"high"},
+    {"id":"CE-007","level":"L1","dimension":"中英文混排格式","line":191,"startLine":191,"endLine":191,"original":"因为AI本身就是概率性的。","suggested":"因为 AI 本身就是概率性的。","oldText":"因为AI本身就是概率性的。","newText":"因为 AI 本身就是概率性的。","reason":"“AI”与相邻中文未留空格，与全文混排格式不一致。","source":"L1 语言错误规则：数字、单位、全半角、大小写格式在同一上下文中不一致。","changeSummary":"补齐 AI 两侧空格。","confidence":"high"},
+    {"id":"CE-008","level":"L1","dimension":"中英文混排格式","line":193,"startLine":193,"endLine":193,"original":"也不对AI的随机性感到无力。","suggested":"也不对 AI 的随机性感到无力。","oldText":"也不对AI的随机性感到无力。","newText":"也不对 AI 的随机性感到无力。","reason":"“AI”与相邻中文未留空格，与全文混排格式不一致。","source":"L1 语言错误规则：数字、单位、全半角、大小写格式在同一上下文中不一致。","changeSummary":"补齐 AI 两侧空格。","confidence":"high"},
+    {"id":"CE-009","level":"L1","dimension":"中英文混排格式","line":195,"startLine":195,"endLine":195,"original":"不断变化的 AI案源的想象空间","suggested":"不断变化的 AI 案源的想象空间","oldText":"不断变化的 AI案源的想象空间","newText":"不断变化的 AI 案源的想象空间","reason":"“AI”与中文之间缺少空格，与全文混排格式不一致。","source":"L1 语言错误规则：数字、单位、全半角、大小写格式在同一上下文中不一致。","changeSummary":"补齐 AI 与中文之间的空格。","confidence":"high"}
+  ]
+}
